@@ -41,10 +41,13 @@ c. Describe the steps to open a pull request?
 
 e. What is the difference between git and GitHub?
 -------------------------------------------------
-Git: 
-    It is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously without overwriting each other's changes. It operates locally on your computer. It manages your project's history, handles branching and merging, and allows you to revert to previous versions of your code.
+Git: It is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously without overwriting each other's changes. It operates locally on your computer. It manages your project's history, handles branching and merging, and allows you to revert to previous versions of your code.
 
-GitHub:
+GitHub: It is a Web-based Hosting Service for Git Repositories in the cloud. It provides a collaborative environment where developers can share their code, contribute to open-source projects, and collaborate on private repositories.
 
-    It is a Web-based Hosting Service for Git Repositories in the cloud. It provides a collaborative environment where developers can share their code, contribute to open-source projects, and collaborate on private repositories.
+
+f. What does git diff do?
+-------------------------
+The `git diff` command in Git is used to display the differences between various states of your repository. It allows you to compare changes in your working directory against the last commit, or between any two commits, branches, or specific files.
+
     
