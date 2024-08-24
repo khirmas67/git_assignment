@@ -39,3 +39,12 @@ c. Describe the steps to open a pull request?
 
 7. Manage Collaborator Permissions: Allow write permission
 
+e. What is the difference between git and GitHub?
+-------------------------------------------------
+Git: 
+    It is a distributed version control system used to track changes in source code during software development. It allows multiple developers to work on a project simultaneously without overwriting each other's changes. It operates locally on your computer. It manages your project's history, handles branching and merging, and allows you to revert to previous versions of your code.
+
+GitHub:
+
+    It is a Web-based Hosting Service for Git Repositories in the cloud. It provides a collaborative environment where developers can share their code, contribute to open-source projects, and collaborate on private repositories.
+    
