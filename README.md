@@ -56,4 +56,7 @@ The `git diff` command in Git is used to display the differences between various
 The "main branch" is the primary branch in a version control system where the stable, production-ready version of the project is maintained.
 
 
+ h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+-----------------------------------------------------------------------------------------------------------------------------
+Generally, it's not recommended to push changes directly to the main branch, especially in a collaborative environment. Instead, it's better to create a new branch off of the main branch to work on a new feature, bug fix, or any update. This keeps your main branch stable and allows you to work on changes without affecting others.
     
