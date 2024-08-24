@@ -50,4 +50,10 @@ f. What does git diff do?
 -------------------------
 The `git diff` command in Git is used to display the differences between various states of your repository. It allows you to compare changes in your working directory against the last commit, or between any two commits, branches, or specific files.
 
+
+ g. What is the main branch?
+----------------------------
+The "main branch" is the primary branch in a version control system where the stable, production-ready version of the project is maintained.
+
+
     
