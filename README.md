@@ -20,3 +20,22 @@ c. Describe the steps to open a pull request?
 4- Select your branch in the "compare" dropdown, and the base branch (main)
 5- Provide a descriptive title and detailed explanation of what you have done in the pull request 
 6- Submit the pull request by clicking "Create pull request." 
+
+
+ d. Describe the steps to add a collaborator to a repository (share write permissions)
+--------------------------------------------------------------------------------------
+1. Go to the repository where you want to add a collaborator.
+
+2. Go to the Repository Settings
+
+3. Access the Collaborators Section: In the left-hand sidebar, click on Collaborators and Teams under the "Access" section.
+
+4. Add a Collaborator: type the GitHub username, full name, or email address of the person you want to add.
+    Select the correct user from the dropdown list that appears.
+
+5. Send the Invitation: Click the Add <username> to the repository button to send an invitation.
+
+6. Wait for Acceptance
+
+7. Manage Collaborator Permissions: Allow write permission
+
