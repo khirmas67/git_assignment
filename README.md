@@ -1,4 +1,4 @@
-
+# Git Assignment - khirmas67
 
 Hello, welcome to my first repository!
 
@@ -62,4 +62,3 @@ The "main branch" is the primary branch in a version control system where the st
 -----------------------------------------------------------------------------------------------------------------------------
 Generally, it's not recommended to push changes directly to the main branch, especially in a collaborative environment. Instead, it's better to create a new branch off of the main branch to work on a new feature, bug fix, or any update. This keeps your main branch stable and allows you to work on changes without affecting others.
     
-# Git Assignment - khirmas67
